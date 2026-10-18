@@ -13,7 +13,7 @@
 
 ## 📥 Download
 
-Every production is published in the [**Releases**](../../releases) tab.
+Every production is published in the [**Releases**](https://github.com/ap3demak-rgb/Sandefjord_demos/releases) tab.
 Each release contains the executable (`.exe`) and a video capture (`.mp4`).
 
 ## ▶️ Running a demo
@@ -34,7 +34,7 @@ Small intros are compressed with executable packers (Crinkler, kkrunchy, UPX…)
 Update your graphics drivers, and make sure the demo runs on your dedicated GPU if you have several.
 
 **Where is the source code?**
-It is not published. This repository only contains this README and the license; the demos are in the [Releases](../../releases).
+It is not published. This repository only contains this README and the license; the demos are in the [Releases](https://github.com/ap3demak-rgb/Sandefjord_demos/releases).
 
 ## 👥 Credits
 
