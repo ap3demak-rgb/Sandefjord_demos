@@ -14,7 +14,7 @@
 ## 📥 Download
 
 Every production is published in the [**Releases**](https://github.com/ap3demak-rgb/Sandefjord_demos/releases) tab.
-Each release contains the executable (`.exe`) and a video capture (`.mp4`).
+Each demos contains the executable (`.exe`) or a video (`.mp4`).
 
 ## ▶️ Running a demo
 
